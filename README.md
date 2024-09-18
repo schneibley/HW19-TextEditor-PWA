@@ -19,6 +19,17 @@ SO THAT I can reliably retrieve them for later use
 - **Service Worker**: Implements a service worker for caching static assets, enhancing performance and offline accessibility.
 - **User-Friendly Interface**: A clean and intuitive interface for easy navigation and editing.
 
+## Technologies
+-**Javascript**
+
+-**HTML**
+
+-**CSS**
+
+-**Node js**
+
+-**Express**
+
 ## Installation
 
 To run the application locally, follow these steps:
