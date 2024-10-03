@@ -37,3 +37,4 @@ registerRoute(({ request }) => ['style', 'script', 'worker'].includes(request.de
     ],
   })
 );
+const { StaleWhileRevalidate } = require('workbox-strategies');
